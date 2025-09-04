@@ -1,4 +1,4 @@
-# Scroll To Top Button – React + TypeScript + Vite
+# Scroll To Top Button 
 
 A simple React + TypeScript project demonstrating a "Back To Top" button that appears after scrolling down the page. Built with Vite for fast development.
 
