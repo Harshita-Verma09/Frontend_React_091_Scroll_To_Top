@@ -13,6 +13,7 @@ A simple React + TypeScript project demonstrating a "Back To Top" button that ap
 ### Install dependencies
 
 ```sh
+
 npm install
 ```
 
